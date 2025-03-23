@@ -1,4 +1,4 @@
 # new-demo
 learning
 <br>
-author - Trupti patil
+author - Trupti patil (student)
